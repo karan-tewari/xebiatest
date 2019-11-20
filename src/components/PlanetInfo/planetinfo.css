@@ -1,0 +1,7 @@
+.buttonHalf{
+    float: none;
+    width: 50%;
+    margin: 15px auto 25px;
+    text-align: center;
+    display: table;
+}
